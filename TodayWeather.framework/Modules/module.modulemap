@@ -1,0 +1,6 @@
+framework module TodayWeather {
+  umbrella header "TodayWeather.h"
+
+  export *
+  module * { export * }
+}
