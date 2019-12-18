@@ -4,69 +4,49 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Extensions/NSArrayExtension.h</key>
+		<key>.DS_Store</key>
+		<data>
+		3y++sUAKzaCQmjLBz2v0kvESHgc=
+		</data>
+		<key>Headers/LocationModel.h</key>
+		<data>
+		U605Gr4acOhQFyyCq3zY6koM8Gs=
+		</data>
+		<key>Headers/Models.h</key>
+		<data>
+		DdlyhK5i2LZeXkKtwfCDrrvB7Y0=
+		</data>
+		<key>Headers/NSArrayExtension.h</key>
 		<data>
 		MySylJrwKviDjfsC7IGD+R3fuqY=
 		</data>
-		<key>Extensions/NSArrayExtension.m</key>
-		<data>
-		60BxkNssnOL0ggg1l50nkgtXf+c=
-		</data>
-		<key>Extensions/NSDateExtension.h</key>
+		<key>Headers/NSDateExtension.h</key>
 		<data>
 		KoAnjf4geUl9DgvRrDc8jDhHCs4=
 		</data>
-		<key>Extensions/NSDateExtension.m</key>
+		<key>Headers/RootModel.h</key>
 		<data>
-		STu/MOThgDBiLN85xcF7n1x0xZA=
+		6KvPrrdrmhrR4UvIGb2xQAl0snY=
+		</data>
+		<key>Headers/ServerManager.h</key>
+		<data>
+		/rdO5NkhWTct5JfFWJQn2Yiv2h8=
 		</data>
 		<key>Headers/TodayWeather.h</key>
 		<data>
 		szkzh2PHWP9SH3wj/vKF7kL1imA=
 		</data>
-		<key>Info.plist</key>
-		<data>
-		TkN9hbAxLcygao0+8OYrmzI4Qys=
-		</data>
-		<key>Managers/ServerManager.h</key>
-		<data>
-		O9aCIYePWTewokok1FIZd4uDs9k=
-		</data>
-		<key>Managers/ServerManager.m</key>
-		<data>
-		KB4lPdfGlRX2gjMbPhD+mi77SyE=
-		</data>
-		<key>Managers/WeatherManager.h</key>
+		<key>Headers/WeatherManager.h</key>
 		<data>
 		OPlmcDRubnI1PCOAHzlCqqOogRg=
 		</data>
-		<key>Managers/WeatherManager.m</key>
-		<data>
-		nzWQcdZ6lLmOjb6aa6QR14GrxgA=
-		</data>
-		<key>Models/LocationModel.h</key>
-		<data>
-		U605Gr4acOhQFyyCq3zY6koM8Gs=
-		</data>
-		<key>Models/LocationModel.m</key>
-		<data>
-		B007nGw0PoQmMhCWZBodf3iRygo=
-		</data>
-		<key>Models/RootModel.h</key>
-		<data>
-		6KvPrrdrmhrR4UvIGb2xQAl0snY=
-		</data>
-		<key>Models/RootModel.m</key>
-		<data>
-		h5BXMZB63uDigDMCxn9unX3k9Vg=
-		</data>
-		<key>Models/WeatherModel.h</key>
+		<key>Headers/WeatherModel.h</key>
 		<data>
 		xBJEpTueojQ9d1l8+aUJyUp/Nl4=
 		</data>
-		<key>Models/WeatherModel.m</key>
+		<key>Info.plist</key>
 		<data>
-		H3YPF/jmPHMNmnw2AP/Z2dkEuL0=
+		TkN9hbAxLcygao0+8OYrmzI4Qys=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -75,32 +55,46 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Extensions/NSArrayExtension.h</key>
+		<key>Headers/LocationModel.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8iyq1MrbUPVJW28P3uMHyQkH/um5HbyODZrO5aLrabE=
+			</data>
+		</dict>
+		<key>Headers/Models.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LKD544gBVnY6FKjz0oxaPyRSc7H+pfEBWIb8UYS+Vko=
+			</data>
+		</dict>
+		<key>Headers/NSArrayExtension.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			rs8dWCNFa5d32SxXcSSrVhjou/13YnQvkxPEvXgsgdE=
 			</data>
 		</dict>
-		<key>Extensions/NSArrayExtension.m</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1TTVDzswXMXJiUlYHs3LQVh+i9w/kb3HunX82whEKw4=
-			</data>
-		</dict>
-		<key>Extensions/NSDateExtension.h</key>
+		<key>Headers/NSDateExtension.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			Ox06dUnP7OkwmvV9xJHSZtZq1a6IKkxtCqT7sl5k/sw=
 			</data>
 		</dict>
-		<key>Extensions/NSDateExtension.m</key>
+		<key>Headers/RootModel.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/NBMbW3hPdLNHgQTc71o7uRuk+wGilfjrKn69JR2/KE=
+			JHMsCKzi6X6vFSK8NLAbCaJvuDcY5h84oet7VeVuBtI=
+			</data>
+		</dict>
+		<key>Headers/ServerManager.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			42KtgSool+CPRYPPF9u38UxH+LrHmRJWrzHRBygLPio=
 			</data>
 		</dict>
 		<key>Headers/TodayWeather.h</key>
@@ -110,74 +104,18 @@
 			M1KgX9mImi784NCJSBPzDL+5AU6OY0oJqHfbSqjE+4Q=
 			</data>
 		</dict>
-		<key>Managers/ServerManager.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			H6AeCoHQG7IZN96D3qPXD/9j9T1XyFI9mNvzygWLUMk=
-			</data>
-		</dict>
-		<key>Managers/ServerManager.m</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Hujf1UTzgNSmgWxK0lZxB55l7ShPHlTc+DD71jncWfQ=
-			</data>
-		</dict>
-		<key>Managers/WeatherManager.h</key>
+		<key>Headers/WeatherManager.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			pqYy0SNtGCBXGSlvUfx/gORUqTLA7vA1ku65z+y7A/k=
 			</data>
 		</dict>
-		<key>Managers/WeatherManager.m</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			n8AxUXGQuNCfS2Jy+eRu048YgnfqgR3YIqgEPNgQEZw=
-			</data>
-		</dict>
-		<key>Models/LocationModel.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8iyq1MrbUPVJW28P3uMHyQkH/um5HbyODZrO5aLrabE=
-			</data>
-		</dict>
-		<key>Models/LocationModel.m</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			T3f9LFoGBB5eIgVBV8ljE7hqr2oN9dVjVZV71YqjwQ0=
-			</data>
-		</dict>
-		<key>Models/RootModel.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JHMsCKzi6X6vFSK8NLAbCaJvuDcY5h84oet7VeVuBtI=
-			</data>
-		</dict>
-		<key>Models/RootModel.m</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1CYaKnh0nCEgt7ESv4LWk5kGxHZOp9Lnsbmb+ewcf1E=
-			</data>
-		</dict>
-		<key>Models/WeatherModel.h</key>
+		<key>Headers/WeatherModel.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			7qeT9X+Tzt02qzIHRclb0C9IKL7BRJvVbQhYfUwQuLs=
-			</data>
-		</dict>
-		<key>Models/WeatherModel.m</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			nsRE0Iv4V0PiQyZpT31mt3Q6T5ecU0db+PG96+Kv4A4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -13,8 +13,6 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface ServerManager : NSObject
 
-+ (ServerManager*)sharedManager;
-
 - (void)startRequestWithMethod:(NSString*)method
                    blockResult:(void(^)(id jsonResult, NSError * error)) blockResult;
 
